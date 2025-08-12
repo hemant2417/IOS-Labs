@@ -1,9 +1,6 @@
-//
 //  QuotionViewController.swift
 //  Personalityquiz
-//
 //  Created by Hemant Sardana on 29/07/25.
-//
 
 import UIKit
 
@@ -46,7 +43,6 @@ class QuotionViewController: UIViewController {
                             Animal(text: "Fish", value: .cat),
                             Animal(text: "Carrots", value: .rabbit),
                             Animal(text: "Corn", value: .turtle),
-                            
                          ]
                         ),
                 
